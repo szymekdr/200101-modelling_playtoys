@@ -1,6 +1,7 @@
 ## Szymek Drobniak
-## 16/12/2019
-## Individuality analyses for Linhart et al. individual vocal signals paper
+## 20/01/2020
+## Pop-genetics models to demonstrate the most important po-gen topics
+## Based mostly on S.H.Rice 2018; D.Roff 2014; S.Otto&T.Day 2015
 
 
 #### single locus bi-allelic FIS ----
